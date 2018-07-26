@@ -29,7 +29,7 @@ Eratta
 
 "Overridden deprecated methods" warning needs to be turned on and warnings repaired.
 
-Turn on other warnings and fix issues that crop up.
+Turn on other warnings and fix issues that crop up. 
 https://github.com/boredzo/Warnings-xcconfig/wiki/Warnings-Explained
 
 NSDrawer has been deprecated in 10.13.
